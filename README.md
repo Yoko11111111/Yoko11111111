@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yokozuna</h1>
 <h3 align="center">A passionate developer from Austria</h3>
-<img align="right" alt="Coding" width="400" src="https://orig00.deviantart.net/5444/f/2016/339/7/b/fire_by_thederpfnaf12-daqntlm.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoko11111111&label=Profile%20views&color=0e75b6&style=flat" alt="yoko11111111" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoko11111111" alt="yoko11111111" /></a> </p>
 
 - 🔭 I’m currently working on **Zuna Twitch Tool**
 
@@ -23,3 +20,5 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoko11111111&show_icons=true&locale=en&layout=compact" alt="yoko11111111" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoko11111111&" alt="yoko11111111" /></p>
